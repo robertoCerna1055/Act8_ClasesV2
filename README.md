@@ -10,9 +10,11 @@
 
 ## Ejercicio 2 clases datos
 - Codigo
-- ![image](https://github.com/user-attachments/assets/9e5ed28b-ec05-4d1f-926b-c94022b8d06f)
+- ![image](https://github.com/user-attachments/assets/10ab9e72-d6fd-4099-a685-39bc0024242a)
+
 
 - Resultado
 - ![image](https://github.com/user-attachments/assets/0812aec4-82b9-41f2-abc5-91a054ed444b)
-- ![image](https://github.com/user-attachments/assets/ec81c7f2-3d11-4db6-a80c-62da49fe25ae)
+- ![image](https://github.com/user-attachments/assets/c36391f2-7a9a-4277-96c3-f33505ba28a9)
+
 
